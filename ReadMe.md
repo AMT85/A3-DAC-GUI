@@ -2,6 +2,8 @@
 
 - amt85-stuff@mail.ru
 
+- contact us for testing and downloading!
+
 - All Rights Reserved.
 
 - <h3>Licensed under CC BY-NC-SA 4.0</h3>
