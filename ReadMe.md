@@ -64,6 +64,13 @@
 	* DAC_Config_Camps.sqf
 	* DAC_Config_Units.sqf
 	
+- added func for debug console: see all DAC variables
+- added client site addon (only loading when you create a DAC mission)
+- fixed dependency of client side addon
+- added script version of the GUI
+- added documentation pdf in english and russian by Valeriy and Pavel
+- added automatic saving of the *config.sqf
+	
 	
 	
 2014-06-18 by Valeriy + Pavel
