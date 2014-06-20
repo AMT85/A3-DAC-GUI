@@ -3,6 +3,8 @@
 - amt85-stuff@mail.ru
 
 - contact us for testing and downloading!
+  * ATM you have only limited access to this repository
+
 
 - All Rights Reserved.
 
@@ -61,6 +63,7 @@
 	* DAC_Config_Behaviour.sqf
 	* DAC_Config_Camps.sqf
 	* DAC_Config_Units.sqf
+	
 	
 	
 2014-06-18 by Valeriy + Pavel
