@@ -16,6 +16,9 @@
 
 - We are using the DAC_Config_Units.sqf from SavageCDN for the non-AMT85 stuff
 
+- MD5 checksum
+  * 944a1e869969dd8a4b64ca5e6ebc209a
+
 2014-06-20 by Valeriy and SavageCDN
 
 - added classnames for
