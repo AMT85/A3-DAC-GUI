@@ -16,6 +16,10 @@
 
 - We are using the DAC_Config_Units.sqf from SavageCDN for the non-AMT85 stuff
 
+2015-05-15
+* src DAC GUI available by Victor (RHS)
+
+
 - MD5 checksum
   * 944a1e869969dd8a4b64ca5e6ebc209a
 
